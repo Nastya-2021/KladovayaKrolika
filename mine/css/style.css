@@ -2642,7 +2642,7 @@ td.add-check a {
     background-size: 542px;
 }
 }
-@media only screen and (max-width: 355px) and (min-width: 320px) {
+@media only screen and (max-width: 355px) and (min-width: 310px) {
  	#dobro{
 		font-size:30px;
 	}
@@ -2733,7 +2733,7 @@ margin-top:0px;
 margin-left:-144px;
  }
        #angela{
-margin-top:-215px;
+margin-top:-415px;
 margin-left:145px;
  }
         #cher{
@@ -10163,7 +10163,7 @@ margin-top:0px;
 margin-left:0px;
  }
        #angela{
-margin-top:-400px;
+margin-top:-200px;
 margin-left:125px;
  }
         #cher{
