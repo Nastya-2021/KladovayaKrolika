@@ -1,9 +1,4 @@
-<<<<<<< HEAD
-/*Author: W3layouts
-Author URL: http://w3layouts.com
-License: Creative Commons Attribution 3.0 Unported
-License URL: http://creativecommons.org/licenses/by/3.0/
---*/
+
 @font-face {
     font-family: 'Oxygen-Bold';
     src:url(../fonts/Oxygen-Bold.ttf) format('truetype');
@@ -13644,6 +13639,186 @@ margin-top: 10px;
 	margin-left: -60px;
 margin-top: -70px;
 }
+#biz{
+margin-top: 0px;
+margin-left: 0px;
+ }
+#synd{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#scrs{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#buz1{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#odenk{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#mol31{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#gp{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#magn{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#naydi{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#pazzs{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#sh{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#chas{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#class{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#pen{
+margin-top: 0px;
+margin-left: 0px;
+ }
+#daino{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#gch{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#ovo{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#fryti{
+margin-top: 0px;
+margin-left: 0px;
+ }
+#klu2{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#biz0{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#alf2{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#rez2{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#pazil2{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#soba2{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#trt2{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#me1mo{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#ssh{
+margin-top: 0px;
+margin-left: 0px;
+ }
+#czf2{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#dh1{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#natrt{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#lg2{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#korz2{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#ffr{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#log2{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#mwsh{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#sort2{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#seky{
+margin-top: 0px;
+margin-left: 0px;
+ }
 #akva{
 margin-top: -220px;
 margin-left: 145px;
@@ -13991,7 +14166,7 @@ margin-top:-250px;
 margin-top: 0px;
 }
 }
-@media only screen and (max-width: 370px) and (min-width: 360px) {
+@media only screen and (max-width: 370px) and (min-width: 360px){
  	 #dobro{
 		font-size:35px;
 	}
@@ -14047,6 +14222,186 @@ margin-top: 10px;
 	margin-left: -60px;
 margin-top: -70px;
 }
+#biz{
+margin-top: 0px;
+margin-left: 0px;
+ }
+#synd{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#scrs{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#buz1{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#odenk{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#mol31{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#gp{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#magn{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#naydi{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#pazzs{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#sh{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#chas{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#class{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#pen{
+margin-top: 0px;
+margin-left: 0px;
+ }
+#daino{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#gch{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#ovo{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#fryti{
+margin-top: 0px;
+margin-left: 0px;
+ }
+#klu2{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#biz0{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#alf2{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#rez2{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#pazil2{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#soba2{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#trt2{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#me1mo{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#ssh{
+margin-top: 0px;
+margin-left: 0px;
+ }
+#czf2{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#dh1{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#natrt{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#lg2{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#korz2{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#ffr{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#log2{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#mwsh{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#sort2{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#seky{
+margin-top: 0px;
+margin-left: 0px;
+ }
 #akva{
 margin-top: -240px;
 margin-left: 165px;
@@ -14405,7 +14760,7 @@ margin-top:-255px;
 margin-top: 0px;
 }
 }
-@media only screen and (max-width: 390px) and (min-width: 375px) {
+@media only screen and (max-width: 390px) and (min-width: 375px){
  	#dobro{
 		font-size:35px;
 	}
@@ -14461,6 +14816,186 @@ margin-top: 10px;
 	margin-left: -60px;
 margin-top: -70px;
 }
+#biz{
+margin-top: 0px;
+margin-left: 0px;
+ }
+#synd{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#scrs{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#buz1{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#odenk{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#mol31{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#gp{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#magn{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#naydi{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#pazzs{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#sh{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#chas{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#class{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#pen{
+margin-top: 0px;
+margin-left: 0px;
+ }
+#daino{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#gch{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#ovo{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#fryti{
+margin-top: 0px;
+margin-left: 0px;
+ }
+#klu2{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#biz0{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#alf2{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#rez2{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#pazil2{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#soba2{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#trt2{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#me1mo{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#ssh{
+margin-top: 0px;
+margin-left: 0px;
+ }
+#czf2{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#dh1{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#natrt{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#lg2{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#korz2{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#ffr{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#log2{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#mwsh{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#sort2{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#seky{
+margin-top: 0px;
+margin-left: 0px;
+ }
 #akva{
 margin-top: 0px;
 margin-left: 0px;
@@ -14903,6 +15438,186 @@ margin-top: 10px;
 	margin-left: -60px;
 margin-top: -70px;
 }
+#biz{
+margin-top: 0px;
+margin-left: 0px;
+ }
+#synd{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#scrs{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#buz1{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#odenk{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#mol31{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#gp{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#magn{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#naydi{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#pazzs{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#sh{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#chas{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#class{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#pen{
+margin-top: 0px;
+margin-left: 0px;
+ }
+#daino{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#gch{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#ovo{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#fryti{
+margin-top: 0px;
+margin-left: 0px;
+ }
+#klu2{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#biz0{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#alf2{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#rez2{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#pazil2{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#soba2{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#trt2{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#me1mo{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#ssh{
+margin-top: 0px;
+margin-left: 0px;
+ }
+#czf2{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#dh1{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#natrt{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#lg2{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#korz2{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#ffr{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#log2{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#mwsh{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#sort2{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#seky{
+margin-top: 0px;
+margin-left: 0px;
+ }
 #akva{
 margin-top: 0px;
 margin-left: 0px;
@@ -15272,7 +15987,7 @@ margin-top:-320px;
 margin-top: 0px;
 }
 }
-@media only screen and (max-width: 475px) and (min-width: 414px) {
+@media only screen and (max-width: 475px) and (min-width: 414px){
  	#dobro{
 		font-size:35px;
 	}
@@ -15328,6 +16043,186 @@ margin-top: 10px;
 	margin-left: -60px;
 margin-top: -70px;
 }
+#biz{
+margin-top: 0px;
+margin-left: 0px;
+ }
+#synd{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#scrs{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#buz1{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#odenk{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#mol31{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#gp{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#magn{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#naydi{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#pazzs{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#sh{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#chas{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#class{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#pen{
+margin-top: 0px;
+margin-left: 0px;
+ }
+#daino{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#gch{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#ovo{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#fryti{
+margin-top: 0px;
+margin-left: 0px;
+ }
+#klu2{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#biz0{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#alf2{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#rez2{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#pazil2{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#soba2{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#trt2{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#me1mo{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#ssh{
+margin-top: 0px;
+margin-left: 0px;
+ }
+#czf2{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#dh1{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#natrt{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#lg2{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#korz2{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#ffr{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#log2{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#mwsh{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#sort2{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#seky{
+margin-top: 0px;
+margin-left: 0px;
+ }
 #akva{
 margin-top: 0px;
 margin-left: 0px;
@@ -15754,6 +16649,186 @@ margin-top: 10px;
 	margin-left: -60px;
 margin-top: -70px;
 }
+#biz{
+margin-top: 0px;
+margin-left: 0px;
+ }
+#synd{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#scrs{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#buz1{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#odenk{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#mol31{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#gp{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#magn{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#naydi{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#pazzs{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#sh{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#chas{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#class{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#pen{
+margin-top: 0px;
+margin-left: 0px;
+ }
+#daino{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#gch{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#ovo{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#fryti{
+margin-top: 0px;
+margin-left: 0px;
+ }
+#klu2{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#biz0{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#alf2{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#rez2{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#pazil2{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#soba2{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#trt2{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#me1mo{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#ssh{
+margin-top: 0px;
+margin-left: 0px;
+ }
+#czf2{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#dh1{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#natrt{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#lg2{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#korz2{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#ffr{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#log2{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#mwsh{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#sort2{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#seky{
+margin-top: 0px;
+margin-left: 0px;
+ }
 #akva{
 margin-top: 0px;
 margin-left: 0px;
@@ -16199,6 +17274,186 @@ margin-top: 10px;
 	margin-left: -60px;
 margin-top: -70px;
 }
+#biz{
+margin-top: 0px;
+margin-left: 0px;
+ }
+#synd{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#scrs{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#buz1{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#odenk{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#mol31{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#gp{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#magn{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#naydi{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#pazzs{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#sh{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#chas{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#class{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#pen{
+margin-top: 0px;
+margin-left: 0px;
+ }
+#daino{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#gch{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#ovo{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#fryti{
+margin-top: 0px;
+margin-left: 0px;
+ }
+#klu2{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#biz0{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#alf2{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#rez2{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#pazil2{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#soba2{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#trt2{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#me1mo{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#ssh{
+margin-top: 0px;
+margin-left: 0px;
+ }
+#czf2{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#dh1{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#natrt{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#lg2{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#korz2{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#ffr{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#log2{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#mwsh{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#sort2{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#seky{
+margin-top: 0px;
+margin-left: 0px;
+ }
  #kit{
 margin-top: 0px;
 margin-left: -284px;
@@ -16577,6 +17832,186 @@ transform: translate(-600px,0);
  	padding-top: 500px;
 
 	}
+	#biz{
+margin-top: 0px;
+margin-left: 0px;
+ }
+#synd{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#scrs{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#buz1{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#odenk{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#mol31{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#gp{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#magn{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#naydi{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#pazzs{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#sh{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#chas{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#class{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#pen{
+margin-top: 0px;
+margin-left: 0px;
+ }
+#daino{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#gch{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#ovo{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#fryti{
+margin-top: 0px;
+margin-left: 0px;
+ }
+#klu2{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#biz0{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#alf2{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#rez2{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#pazil2{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#soba2{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#trt2{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#me1mo{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#ssh{
+margin-top: 0px;
+margin-left: 0px;
+ }
+#czf2{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#dh1{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#natrt{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#lg2{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#korz2{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#ffr{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#log2{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#mwsh{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#sort2{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#seky{
+margin-top: 0px;
+margin-left: 0px;
+ }
   #kit{
 margin-top: 10px;
 margin-left: -359px;
@@ -17005,6 +18440,186 @@ transform: translate(-600px,0);
  	padding-top: 500px;
 
 	}
+	#biz{
+margin-top: 0px;
+margin-left: 0px;
+ }
+#synd{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#scrs{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#buz1{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#odenk{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#mol31{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#gp{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#magn{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#naydi{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#pazzs{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#sh{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#chas{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#class{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#pen{
+margin-top: 0px;
+margin-left: 0px;
+ }
+#daino{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#gch{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#ovo{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#fryti{
+margin-top: 0px;
+margin-left: 0px;
+ }
+#klu2{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#biz0{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#alf2{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#rez2{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#pazil2{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#soba2{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#trt2{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#me1mo{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#ssh{
+margin-top: 0px;
+margin-left: 0px;
+ }
+#czf2{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#dh1{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#natrt{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#lg2{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#korz2{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#ffr{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#log2{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#mwsh{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#sort2{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#seky{
+margin-top: 0px;
+margin-left: 0px;
+ }
    #kit{
 margin-top: 10px;
 margin-left: -359px;
@@ -17433,6 +19048,186 @@ transform: translate(-600px,0);
  	padding-top: 500px;
 
 	}
+	#biz{
+margin-top: 0px;
+margin-left: 0px;
+ }
+#synd{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#scrs{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#buz1{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#odenk{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#mol31{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#gp{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#magn{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#naydi{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#pazzs{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#sh{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#chas{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#class{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#pen{
+margin-top: 0px;
+margin-left: 0px;
+ }
+#daino{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#gch{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#ovo{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#fryti{
+margin-top: 0px;
+margin-left: 0px;
+ }
+#klu2{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#biz0{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#alf2{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#rez2{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#pazil2{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#soba2{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#trt2{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#me1mo{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#ssh{
+margin-top: 0px;
+margin-left: 0px;
+ }
+#czf2{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#dh1{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#natrt{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#lg2{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#korz2{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#ffr{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#log2{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#mwsh{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#sort2{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#seky{
+margin-top: 0px;
+margin-left: 0px;
+ }
    #kit{
 margin-top: 0px;
 margin-left: 0px;
@@ -17917,6 +19712,186 @@ margin-top: 10px;
 	margin-left: -60px;
 margin-top: -80px;
 }
+#biz{
+margin-top: 0px;
+margin-left: 0px;
+ }
+#synd{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#scrs{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#buz1{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#odenk{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#mol31{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#gp{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#magn{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#naydi{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#pazzs{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#sh{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#chas{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#class{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#pen{
+margin-top: 0px;
+margin-left: 0px;
+ }
+#daino{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#gch{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#ovo{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#fryti{
+margin-top: 0px;
+margin-left: 0px;
+ }
+#klu2{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#biz0{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#alf2{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#rez2{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#pazil2{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#soba2{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#trt2{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#me1mo{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#ssh{
+margin-top: 0px;
+margin-left: 0px;
+ }
+#czf2{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#dh1{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#natrt{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#lg2{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#korz2{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#ffr{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#log2{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#mwsh{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#sort2{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#seky{
+margin-top: 0px;
+margin-left: 0px;
+ }
    #kit{
 margin-top: 0px;
 margin-left: 0px;
@@ -18402,7 +20377,7 @@ margin-top: 0px;
 font-size:25px;
  }
  #dobro{
-		font-size:75px;
+		font-size:90px;
 	}
 	#h1{
 		font-size:35px;
@@ -18452,6 +20427,186 @@ transform: translate(-600px,0);
  	padding-top: 500px;
 
 	}
+	#biz{
+margin-top: 0px;
+margin-left: 0px;
+ }
+#synd{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#scrs{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#buz1{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#odenk{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#mol31{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#gp{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#magn{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#naydi{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#pazzs{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#sh{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#chas{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#class{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#pen{
+margin-top: 0px;
+margin-left: 0px;
+ }
+#daino{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#gch{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#ovo{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#fryti{
+margin-top: 0px;
+margin-left: 0px;
+ }
+#klu2{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#biz0{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#alf2{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#rez2{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#pazil2{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#soba2{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#trt2{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#me1mo{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#ssh{
+margin-top: 0px;
+margin-left: 0px;
+ }
+#czf2{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#dh1{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#natrt{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#lg2{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#korz2{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#ffr{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#log2{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#mwsh{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#sort2{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#seky{
+margin-top: 0px;
+margin-left: 0px;
+ }
    #kit{
 margin-top: 0px;
 margin-left: 0px;
@@ -18998,6 +21153,186 @@ margin-top: 10px;
 	margin-left: -60px;
 margin-top: -70px;
 }
+#biz{
+margin-top: 0px;
+margin-left: 0px;
+ }
+#synd{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#scrs{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#buz1{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#odenk{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#mol31{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#gp{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#magn{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#naydi{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#pazzs{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#sh{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#chas{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#class{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#pen{
+margin-top: 0px;
+margin-left: 0px;
+ }
+#daino{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#gch{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#ovo{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#fryti{
+margin-top: 0px;
+margin-left: 0px;
+ }
+#klu2{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#biz0{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#alf2{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#rez2{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#pazil2{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#soba2{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#trt2{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#me1mo{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#ssh{
+margin-top: 0px;
+margin-left: 0px;
+ }
+#czf2{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#dh1{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#natrt{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#lg2{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#korz2{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#ffr{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#log2{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#mwsh{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#sort2{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#seky{
+margin-top: 0px;
+margin-left: 0px;
+ }
       #kit{
 margin-top: 0px;
 margin-left: 0px;
@@ -19544,6 +21879,186 @@ margin-top: 10px;
 	margin-left: -60px;
 margin-top: -70px;
 }
+#biz{
+margin-top: 0px;
+margin-left: 0px;
+ }
+#synd{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#scrs{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#buz1{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#odenk{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#mol31{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#gp{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#magn{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#naydi{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#pazzs{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#sh{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#chas{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#class{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#pen{
+margin-top: 0px;
+margin-left: 0px;
+ }
+#daino{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#gch{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#ovo{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#fryti{
+margin-top: 0px;
+margin-left: 0px;
+ }
+#klu2{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#biz0{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#alf2{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#rez2{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#pazil2{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#soba2{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#trt2{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#me1mo{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#ssh{
+margin-top: 0px;
+margin-left: 0px;
+ }
+#czf2{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#dh1{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#natrt{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#lg2{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#korz2{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#ffr{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#log2{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#mwsh{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#sort2{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#seky{
+margin-top: 0px;
+margin-left: 0px;
+ }
       #kit{
 margin-top: 0px;
 margin-left: 0px;
@@ -20090,6 +22605,186 @@ margin-top: 10px;
 	margin-left: -60px;
 margin-top: -70px;
 }
+#biz{
+margin-top: 0px;
+margin-left: 0px;
+ }
+#synd{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#scrs{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#buz1{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#odenk{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#mol31{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#gp{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#magn{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#naydi{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#pazzs{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#sh{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#chas{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#class{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#pen{
+margin-top: 0px;
+margin-left: 0px;
+ }
+#daino{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#gch{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#ovo{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#fryti{
+margin-top: 0px;
+margin-left: 0px;
+ }
+#klu2{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#biz0{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#alf2{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#rez2{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#pazil2{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#soba2{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#trt2{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#me1mo{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#ssh{
+margin-top: 0px;
+margin-left: 0px;
+ }
+#czf2{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#dh1{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#natrt{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#lg2{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#korz2{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#ffr{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#log2{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#mwsh{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#sort2{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#seky{
+margin-top: 0px;
+margin-left: 0px;
+ }
       #kit{
 margin-top: 0px;
 margin-left: 0px;
@@ -20640,6 +23335,186 @@ margin-top: 10px;
 	margin-left: -60px;
 margin-top: -70px;
 }
+#biz{
+margin-top: 0px;
+margin-left: 0px;
+ }
+#synd{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#scrs{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#buz1{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#odenk{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#mol31{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#gp{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#magn{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#naydi{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#pazzs{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#sh{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#chas{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#class{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#pen{
+margin-top: 0px;
+margin-left: 0px;
+ }
+#daino{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#gch{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#ovo{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#fryti{
+margin-top: 0px;
+margin-left: 0px;
+ }
+#klu2{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#biz0{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#alf2{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#rez2{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#pazil2{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#soba2{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#trt2{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#me1mo{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#ssh{
+margin-top: 0px;
+margin-left: 0px;
+ }
+#czf2{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#dh1{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#natrt{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#lg2{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#korz2{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#ffr{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#log2{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#mwsh{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#sort2{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#seky{
+margin-top: 0px;
+margin-left: 0px;
+ }
 #akva{
 margin-top: 0px;
 margin-left: 0px;
@@ -21010,9 +23885,8 @@ margin-top: 0px;
 }
 }
 @media only screen and (max-width: 290px) and (min-width:275px) {
- 
  	#dobro{
-		font-size:15px;
+		font-size:25px;
 	}
 	#h1{
 		font-size:10px;
@@ -21026,7 +23900,8 @@ font-size: 15px;
 margin-left:0px;
  }
   #glavnaya{
-margin-left:-10px;
+margin-left:0px;
+font-size:10px;
  }
  	#F{
 transform: translate(-600px,0);
@@ -21070,6 +23945,186 @@ margin-top: 10px;
 	margin-left: -60px;
 margin-top: -70px;
 }
+#biz{
+margin-top: 0px;
+margin-left: 0px;
+ }
+#synd{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#scrs{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#buz1{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#odenk{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#mol31{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#gp{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#magn{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#naydi{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#pazzs{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#sh{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#chas{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#class{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#pen{
+margin-top: 0px;
+margin-left: 0px;
+ }
+#daino{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#gch{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#ovo{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#fryti{
+margin-top: 0px;
+margin-left: 0px;
+ }
+#klu2{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#biz0{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#alf2{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#rez2{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#pazil2{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#soba2{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#trt2{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#me1mo{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#ssh{
+margin-top: 0px;
+margin-left: 0px;
+ }
+#czf2{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#dh1{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#natrt{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#lg2{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#korz2{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#ffr{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#log2{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#mwsh{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#sort2{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#seky{
+margin-top: 0px;
+margin-left: 0px;
+ }
 #akva{
 margin-top: -215px;
 margin-left: 125px;
@@ -21078,14 +24133,17 @@ margin-left: 125px;
 margin-top: 0px;
 margin-left: 0px;
  }
- 
-   #apple{
-margin-top:50px;
+  #biz{
+margin-top: 0px;
 margin-left: 0px;
  }
+   #apple{
+margin-top:50px;
+margin-left: -124px;
+ }
    #pim{
-margin-top:-230px;
-margin-left: 0px;
+margin-top:-225px;
+margin-left:125px;
  }
   #synd{
 margin-top:0px;
@@ -21131,6 +24189,10 @@ margin-left:0px;
 margin-top:0px;
 margin-left:0px;
  } 
+ #buz1{
+margin-top:0px;
+margin-left:0px;
+ }
             #kub{
 margin-top:0px;
 margin-left:0px;
@@ -21141,6 +24203,18 @@ margin-left:0px;
  }
               #rez{
 margin-top:-205px;
+margin-left:0px;
+ }
+               #odenk{
+margin-top:0px;
+margin-left:0px;
+ }
+               #mol31{
+margin-top:0px;
+margin-left:0px;
+ }
+                #gp{
+margin-top:0px;
 margin-left:0px;
  }
                #eh{
@@ -21155,6 +24229,14 @@ margin-left:0px;
 margin-top:-235px;
 margin-left:04px;
  }
+      #magn{
+margin-top:0px;
+margin-left:0px;
+ }
+      #naydi{
+margin-top:0px;
+margin-left:0px;
+ }
        #ib{
 margin-top:20px;
 margin-left:0px;
@@ -21163,6 +24245,19 @@ margin-left:0px;
 margin-top:-230px;
 margin-left:0px;
  }
+    #pazzs{
+margin-top:0px;
+margin-left:0px;
+ }
+    #sh{
+margin-top:0px;
+margin-left:0px;
+ }
+ #chas{
+margin-top:0px;
+margin-left:0px;
+ }
+
          #rub{
 margin-top:0px;
 margin-left:0px;
@@ -21183,7 +24278,31 @@ margin-left:0px;
 margin-top:-230px;
 margin-left:0px;
  }
+  #class{
+margin-top:0px;
+margin-left:0px;
+ }
+ #pen{
+margin-top:0px;
+margin-left:0px;
+ }
+  #daino{
+margin-top:0px;
+margin-left:0px;
+ }
               #mi{
+margin-top:0px;
+margin-left:0px;
+ }
+  #gch{
+margin-top:0px;
+margin-left:0px;
+ }
+  #ovo{
+margin-top:0px;
+margin-left:0px;
+ }
+  #fryti{
 margin-top:0px;
 margin-left:0px;
  }
@@ -21239,6 +24358,10 @@ margin-left:0px;
 margin-top:0px;
 margin-left:0px;
  }
+  #biz0{
+margin-top:0px;
+margin-left:0px;
+ }
   #sos{
 margin-top:30px;
 margin-left:-124px;
@@ -21255,12 +24378,28 @@ margin-left:0px;
 margin-top:0px;
 margin-left:0px;
  }
+ #alf2{
+margin-top:0px;
+margin-left:0px;
+ }
+ #rez2{
+margin-top:0px;
+margin-left:0px;
+ }
  #k3{
 margin-top:30px;
 margin-left:0px;
  }
  #f2{
 margin-top:-230px;
+margin-left:0px;
+ }
+  #pazil2{
+margin-top:0px;
+margin-left:0px;
+ }
+  #soba2{
+margin-top:0px;
 margin-left:0px;
  }
  #g1{
@@ -21278,6 +24417,14 @@ margin-left:-124px;
   #trt2{
 margin-top:-230px;
 margin-left:125px;
+ }
+  #me1mo{
+margin-top:0px;
+margin-left:0px;
+ }
+   #ssh{
+margin-top:0px;
+margin-left:0px;
  }
  #vog{
 margin-top:40px;
@@ -21299,7 +24446,11 @@ margin-left:0px;
 margin-top:0px;
 margin-left:0px;
  }
- #ro1{
+  #ro1{
+margin-top:0px;
+margin-left:0px;
+ }
+ #natrt{
 margin-top:0px;
 margin-left:0px;
  }
@@ -21316,6 +24467,10 @@ margin-top:-220px;
 margin-left:0px;
  }
   #korz2{
+margin-top:0px;
+margin-left:0px;
+ }
+   #ffr{
 margin-top:0px;
 margin-left:0px;
  }
@@ -21342,6 +24497,22 @@ margin-left:-124px;
  #vk1{
 	margin-left: 0px;
 margin-top: -220px;
+}
+  #log2{
+	margin-left: 0px;
+margin-top: 0px;
+}
+  #mwsh{
+	margin-left: 0px;
+margin-top: 0px;
+}
+  #sort2{
+	margin-left: 0px;
+margin-top: 0px;
+}
+  #seky{
+	margin-left: 0px;
+margin-top: 0px;
 }
   #gr3{
 	margin-left: 0px;
@@ -21501,6 +24672,186 @@ margin-top: 10px;
 	margin-left: -60px;
 margin-top: -70px;
 }
+#biz{
+margin-top: 0px;
+margin-left: 0px;
+ }
+#synd{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#scrs{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#buz1{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#odenk{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#mol31{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#gp{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#magn{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#naydi{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#pazzs{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#sh{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#chas{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#class{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#pen{
+margin-top: 0px;
+margin-left: 0px;
+ }
+#daino{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#gch{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#ovo{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#fryti{
+margin-top: 0px;
+margin-left: 0px;
+ }
+#klu2{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#biz0{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#alf2{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#rez2{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#pazil2{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#soba2{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#trt2{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#me1mo{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#ssh{
+margin-top: 0px;
+margin-left: 0px;
+ }
+#czf2{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#dh1{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#natrt{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#lg2{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#korz2{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#ffr{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#log2{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#mwsh{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#sort2{
+margin-top: 0px;
+margin-left: 0px;
+ }
+
+#seky{
+margin-top: 0px;
+margin-left: 0px;
+ }
 #akva{
 margin-top: 0px;
 margin-left: 0px;
@@ -21886,5 +25237,4 @@ margin-top:-380px;
 	margin-left: 0px;
 margin-top: 0px;
 }
->>>>>>> 387623670eb4d7eda118b9b761f8731b08d66b0a
 }
