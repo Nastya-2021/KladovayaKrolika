@@ -5042,7 +5042,7 @@ margin-top:-320px;
 margin-top: 0px;
 }
 }
-@media only screen and (max-width: 475px) and (min-width: 414px){
+@media only screen and (max-width: 475px) and (min-width: 413px){
  	#dobro{
 		font-size:35px;
 	}
@@ -12331,7 +12331,7 @@ margin-left: 0px;
 margin-top: 0px;
 }
 }
-@media only screen and (max-width: 412px) and (min-width: 411px) {
+@media only screen and (max-width: 413px) and (min-width: 411px) {
   #glavnaya{
 font-size:25px;
  }
