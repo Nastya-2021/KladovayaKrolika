@@ -2899,25 +2899,42 @@ margin-top: 0px;
 margin-left: 0px;
  }
 
-#log2{
+  #log2{
+	margin-left: 0px;
 margin-top: 0px;
-margin-left: 0px;
- }
-
-#mwsh{
+}
+  #mwsh{
+	margin-left: 0px;
 margin-top: 0px;
-margin-left: 0px;
- }
-
-#sort2{
+}
+  #sort2{
+	margin-left: 0px;
 margin-top: 0px;
-margin-left: 0px;
- }
-
-#seky{
+}
+  #seky{
+	margin-left:-290px;
+margin-top: 280px;
+}
+  #schsor1{
+	margin-left: 0px;
 margin-top: 0px;
-margin-left: 0px;
- }
+}
+  #yash1{
+	margin-left: 0px;
+margin-top: 0px;
+}
+  #zdin{
+	margin-left: 0px;
+margin-top: 0px;
+}
+  #pazpa{
+	margin-left: 0px;
+margin-top: 0px;
+}
+  #volsh1{
+	margin-left: 0px;
+margin-top: 0px;
+}
 #akva{
 margin-top: -220px;
 margin-left: 145px;
@@ -3163,6 +3180,7 @@ margin-left:-144px;
 	margin-left: 0px;
 margin-top: -235px;
 }
+ 
   #gr3{
 	margin-left: 0px;
 margin-top: 0px;
@@ -3758,6 +3776,30 @@ margin-top: -245px;
 	margin-left: 0px;
 margin-top: 0px;
 }
+ #seky{
+	margin-left:-330px;
+margin-top: 280px;
+}
+  #schsor1{
+	margin-left: 0px;
+margin-top: 0px;
+}
+  #yash1{
+	margin-left: 0px;
+margin-top: 0px;
+}
+  #zdin{
+	margin-left: 0px;
+margin-top: 0px;
+}
+  #pazpa{
+	margin-left: 0px;
+margin-top: 0px;
+}
+  #volsh1{
+	margin-left: 0px;
+margin-top: 0px;
+}
  #gr3{
 	margin-left: 0px;
 margin-top: 0px;
@@ -4090,11 +4132,48 @@ margin-left: 0px;
 margin-top: 0px;
 margin-left: 0px;
  }
-
-#seky{
+   #geom1{
+	margin-left: 0px;
 margin-top: 0px;
-margin-left: 0px;
- }
+}
+   #schsor{
+	margin-left: -172px;
+margin-top: 15px;
+}
+   #yash{
+	margin-left: 172px;
+margin-top: -310px;
+}
+   #volsh{
+	margin-left: 0px;
+margin-top: 0px;
+}
+
+  #seky{
+	margin-left:-345px;
+margin-top: 300px;
+}
+  #schsor1{
+	margin-left: 0px;
+margin-top: 0px;
+}
+  #yash1{
+	margin-left: 0px;
+margin-top: 0px;
+}
+  #zdin{
+	margin-left: 0px;
+margin-top: 0px;
+}
+  #pazpa{
+	margin-left: 0px;
+margin-top: 0px;
+}
+  #volsh1{
+	margin-left: 0px;
+margin-top: 0px;
+}
+
 #akva{
 margin-top: 0px;
 margin-left: 0px;
@@ -4380,6 +4459,7 @@ margin-top: -250px;
 	margin-left: 0px;
 margin-top: 0px;
 }
+
  #gr3{
 	margin-left: 0px;
 margin-top: 0px;
@@ -4707,16 +4787,53 @@ margin-left: 0px;
 margin-top: 0px;
 margin-left: 0px;
  }
+ #geom1{
+	margin-left: 0px;
+margin-top: 0px;
+}
+   #schsor{
+	margin-left: 0px;
+margin-top: 0px;
+}
+   #yash{
+	margin-left: 0px;
+margin-top: 0px;
+}
+   #volsh{
+	margin-left: 0px;
+margin-top: 0px;
+}
+
+  #seky{
+	margin-left:-365px;
+margin-top: 350px;
+}
+  #schsor1{
+	margin-left: 0px;
+margin-top:0px;
+}
+  #yash1{
+	margin-left: 0px;
+margin-top: 0px;
+}
+  #zdin{
+	margin-left: 0px;
+margin-top: 0px;
+}
+  #pazpa{
+	margin-left: 0px;
+margin-top: 0px;
+}
+  #volsh1{
+	margin-left: 0px;
+margin-top: 0px;
+}
 
 #sort2{
 margin-top: 0px;
 margin-left: 0px;
  }
 
-#seky{
-margin-top: 0px;
-margin-left: 0px;
- }
 #akva{
 margin-top: 0px;
 margin-left: 0px;
@@ -5922,10 +6039,46 @@ margin-left: 0px;
 margin-top: 0px;
 margin-left: 0px;
  }
-
-#seky{
+ #geom1{
+	margin-left: 0px;
 margin-top: 0px;
-margin-left: 0px;
+}
+   #schsor{
+	margin-left: 0px;
+margin-top: 0px;
+}
+   #yash{
+	margin-left: 0px;
+margin-top: 0px;
+}
+   #volsh{
+	margin-left: 0px;
+margin-top: 0px;
+}
+
+  #schsor1{
+	margin-left: 190px;
+margin-top:-300px;
+}
+  #yash1{
+	margin-left: 0px;
+margin-top: 0px;
+}
+  #zdin{
+	margin-left: 0px;
+margin-top: 0px;
+}
+  #pazpa{
+	margin-left: 0px;
+margin-top: 0px;
+}
+  #volsh1{
+	margin-left: 0px;
+margin-top: 0px;
+}
+#seky{
+margin-top: 80px;
+margin-left: -190px;
  }
 #akva{
 margin-top: 0px;
@@ -6528,10 +6681,46 @@ margin-left: 0px;
 margin-top: 0px;
 margin-left: 0px;
  }
-
-#seky{
+#geom1{
+	margin-left: 0px;
 margin-top: 0px;
-margin-left: 0px;
+}
+   #schsor{
+	margin-left: -223px;
+margin-top: 0px;
+}
+   #yash{
+	margin-left: 225px;
+margin-top: -395px;
+}
+   #volsh{
+	margin-left: 0px;
+margin-top: 0px;
+}
+
+  #schsor1{
+	margin-left: 225px;
+margin-top:-330px;
+}
+  #yash1{
+	margin-left: 0px;
+margin-top: 0px;
+}
+  #zdin{
+	margin-left: 0px;
+margin-top: 0px;
+}
+  #pazpa{
+	margin-left: 0px;
+margin-top: 0px;
+}
+  #volsh1{
+	margin-left: 0px;
+margin-top: 0px;
+}
+#seky{
+margin-top: 100px;
+margin-left: -223px;
  }
 #akva{
 margin-top: 0px;
@@ -7153,10 +7342,46 @@ margin-left: 0px;
 margin-top: 0px;
 margin-left: 0px;
  }
-
-#seky{
+#geom1{
+	margin-left: 0px;
 margin-top: 0px;
-margin-left: 0px;
+}
+   #schsor{
+	margin-left: -283px;
+margin-top: 0px;
+}
+   #yash{
+	margin-left: 285px;
+margin-top: -405px;
+}
+   #volsh{
+	margin-left: 0px;
+margin-top: 0px;
+}
+
+  #schsor1{
+	margin-left: 285px;
+margin-top:-380px;
+}
+  #yash1{
+	margin-left: 0px;
+margin-top: 0px;
+}
+  #zdin{
+	margin-left: 0px;
+margin-top: 0px;
+}
+  #pazpa{
+	margin-left: 0px;
+margin-top: 0px;
+}
+  #volsh1{
+	margin-left: 0px;
+margin-top: 0px;
+}
+#seky{
+margin-top: 200px;
+margin-left: -283px;
  }
  #kit{
 margin-top: 0px;
@@ -7711,10 +7936,46 @@ margin-left: 0px;
 margin-top: 0px;
 margin-left: 0px;
  }
-
-#seky{
+#geom1{
+	margin-left: 0px;
 margin-top: 0px;
-margin-left: 0px;
+}
+   #schsor{
+	margin-left: -357px;
+margin-top: 0px;
+}
+   #yash{
+	margin-left: 359px;
+margin-top: -455px;
+}
+   #volsh{
+	margin-left: 0px;
+margin-top: 0px;
+}
+
+  #schsor1{
+	margin-left: 359px;
+margin-top:-450px;
+}
+  #yash1{
+	margin-left: 0px;
+margin-top: 0px;
+}
+  #zdin{
+	margin-left: 0px;
+margin-top: 0px;
+}
+  #pazpa{
+	margin-left: 0px;
+margin-top: 0px;
+}
+  #volsh1{
+	margin-left: 0px;
+margin-top: 0px;
+}
+#seky{
+margin-top: 170px;
+margin-left: -357px;
  }
   #kit{
 margin-top: 10px;
@@ -8319,10 +8580,46 @@ margin-left: 0px;
 margin-top: 0px;
 margin-left: 0px;
  }
-
-#seky{
+#geom1{
+	margin-left: 0px;
 margin-top: 0px;
-margin-left: 0px;
+}
+   #schsor{
+	margin-left: -357px;
+margin-top: 0px;
+}
+   #yash{
+	margin-left: 359px;
+margin-top: -455px;
+}
+   #volsh{
+	margin-left: 0px;
+margin-top: 0px;
+}
+
+  #schsor1{
+	margin-left: 359px;
+margin-top:-450px;
+}
+  #yash1{
+	margin-left: 0px;
+margin-top: 0px;
+}
+  #zdin{
+	margin-left: 0px;
+margin-top: 0px;
+}
+  #pazpa{
+	margin-left: 0px;
+margin-top: 0px;
+}
+  #volsh1{
+	margin-left: 0px;
+margin-top: 0px;
+}
+#seky{
+margin-top: 170px;
+margin-left: -357px;
  }
    #kit{
 margin-top: 10px;
@@ -8919,19 +9216,16 @@ margin-left: 0px;
  }
 
 #mwsh{
-margin-top: 0px;
+margin-top: 80px;
 margin-left: 0px;
  }
 
 #sort2{
-margin-top: 0px;
+margin-top: 80px;
 margin-left: 0px;
  }
 
-#seky{
-margin-top: 0px;
-margin-left: 0px;
- }
+
    #kit{
 margin-top: 0px;
 margin-left: 0px;
@@ -9254,11 +9548,48 @@ margin-top: 20px;
 }
 #mwsh{
 margin-left: 0px;
-margin-top: -320px;
+margin-top: 0px;
+}
+#geom1{
+	margin-left: 0px;
+margin-top: 0px;
+}
+   #schsor{
+	margin-left: 0px;
+margin-top: 0px;
+}
+   #yash{
+	margin-left:0px;
+margin-top: 0px;
+}
+   #volsh{
+	margin-left: 0px;
+margin-top: 0px;
+}
+
+  #schsor1{
+	margin-left: -223px;
+margin-top:50px;
+}
+  #yash1{
+	margin-left: 0px;
+margin-top:50px;
+}
+  #zdin{
+	margin-left: 450px;
+margin-top: -420px;
+}
+  #pazpa{
+	margin-left: 0px;
+margin-top: 0px;
+}
+  #volsh1{
+	margin-left: 0px;
+margin-top: 0px;
 }
 #sort2{
 margin-left: 0px;
-margin-top: -320px;
+margin-top: -10px;
 }
 #gr3{
 margin-left: 0px;
@@ -10306,7 +10637,43 @@ margin-left: 0px;
 margin-top: 0px;
 margin-left: 0px;
  }
+#geom1{
+	margin-left: 0px;
+margin-top: 0px;
+}
+   #schsor{
+	margin-left: 0px;
+margin-top: 0px;
+}
+   #yash{
+	margin-left:0px;
+margin-top: 0px;
+}
+   #volsh{
+	margin-left: 0px;
+margin-top: 0px;
+}
 
+  #schsor1{
+	margin-left: -270px;
+margin-top:70px;
+}
+  #yash1{
+	margin-left: 0px;
+margin-top:70px;
+}
+  #zdin{
+	margin-left: 550px;
+margin-top: -450px;
+}
+  #pazpa{
+	margin-left: 0px;
+margin-top: 0px;
+}
+  #volsh1{
+	margin-left: 0px;
+margin-top: 0px;
+}
 #seky{
 margin-top: 0px;
 margin-left: 0px;
@@ -11032,7 +11399,43 @@ margin-left: 0px;
 margin-top: 0px;
 margin-left: 0px;
  }
+#geom1{
+	margin-left: 0px;
+margin-top: 0px;
+}
+   #schsor{
+	margin-left: 0px;
+margin-top: 0px;
+}
+   #yash{
+	margin-left:0px;
+margin-top: 0px;
+}
+   #volsh{
+	margin-left: 0px;
+margin-top: 0px;
+}
 
+  #schsor1{
+	margin-left: -270px;
+margin-top:70px;
+}
+  #yash1{
+	margin-left: 0px;
+margin-top:70px;
+}
+  #zdin{
+	margin-left: 550px;
+margin-top: -450px;
+}
+  #pazpa{
+	margin-left: 0px;
+margin-top: 0px;
+}
+  #volsh1{
+	margin-left: 0px;
+margin-top: 0px;
+}
 #seky{
 margin-top: 0px;
 margin-left: 0px;
@@ -11758,7 +12161,43 @@ margin-left: 0px;
 margin-top: 0px;
 margin-left: 0px;
  }
+#geom1{
+	margin-left: 0px;
+margin-top: 0px;
+}
+   #schsor{
+	margin-left: 0px;
+margin-top: 0px;
+}
+   #yash{
+	margin-left:0px;
+margin-top: 0px;
+}
+   #volsh{
+	margin-left: 0px;
+margin-top: 0px;
+}
 
+  #schsor1{
+	margin-left: -270px;
+margin-top:70px;
+}
+  #yash1{
+	margin-left: 0px;
+margin-top:70px;
+}
+  #zdin{
+	margin-left: 550px;
+margin-top: -450px;
+}
+  #pazpa{
+	margin-left: 0px;
+margin-top: 0px;
+}
+  #volsh1{
+	margin-left: 0px;
+margin-top: 0px;
+}
 #seky{
 margin-top: 0px;
 margin-left: 0px;
@@ -12484,7 +12923,43 @@ margin-left: 0px;
 margin-top: 0px;
 margin-left: 0px;
  }
+#geom1{
+	margin-left: 0px;
+margin-top: 0px;
+}
+   #schsor{
+	margin-left: 0px;
+margin-top: 0px;
+}
+   #yash{
+	margin-left:0px;
+margin-top: 0px;
+}
+   #volsh{
+	margin-left: 0px;
+margin-top: 0px;
+}
 
+  #schsor1{
+	margin-left: -270px;
+margin-top:70px;
+}
+  #yash1{
+	margin-left: 0px;
+margin-top:70px;
+}
+  #zdin{
+	margin-left: 550px;
+margin-top: -450px;
+}
+  #pazpa{
+	margin-left: 0px;
+margin-top: 0px;
+}
+  #volsh1{
+	margin-left: 0px;
+margin-top: 0px;
+}
 #seky{
 margin-top: 0px;
 margin-left: 0px;
