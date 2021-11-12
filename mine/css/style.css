@@ -1520,6 +1520,10 @@ margin-top: -70px;
 	margin-left: 550px;
 margin-top: -375px;
 }	
+#derevannye{
+	margin-left: -4px;
+margin-top: 80px;
+}
 #synd{
 	margin-left: 5px;
 margin-top: 0px;
@@ -2741,6 +2745,10 @@ margin-top: 10px;
 	width: 40px;
 	margin-left: -60px;
 margin-top: -70px;
+}
+#derevannye{
+	margin-left: 0px;
+margin-top: 0px;
 }
 #biz{
 margin-top: 0px;

@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Практическая работа за 05.11</title>
+</head>
+<body>
+<div class="block">
+<h2>Задание 1</h2>
+<hr>
+<div class="z1">
+<button onclick="z1()">Задание 1</button>
+</div>
+<hr>
+<h2>Задание 2</h2>
+<hr>
+<div class="z2">
+<button onclick="z2()">Задание 2</button>
+<br><br>
+<div class="resh"></div>
+</div>
+<hr>
+</div>
+
+<script type="text/javascript">
+function z1() {
+ages = prompt('Введите ваш возрост', 0);
+
+if (age > 20) {
+alert("Вы уже взрослый человек");
+} else {
+alert("Вы еще молоды");
+}
+
+}
+
+function z2() {
+age = prompt('Введите ваш возрост', 0);
+year = prompt('Введите нынешний год', 0);
+resh = document.querySelector('.resh');
+ageX = age;
+resh.innerHTML = `<strong>Сайчас ${age} год и в этом году Вы проживаете ${year} год</strong> <br>`
+for (var i = 0; i < age; i++) {
+year -= 1;
+ageX -= 1;
+if (ageX == 0) {
+resh.innerHTML += `<strong> В ${year} вы родились </strong> <br>`
+} else {
+resh.innerHTML += `В ${year} вы прожили - ${ageX}-ый год жизни <br>`
+}
+
+}
+}
+</script>
+
+</body>
+</html> 
